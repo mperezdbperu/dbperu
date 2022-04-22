@@ -11,6 +11,9 @@ sites:
     url: http://tentus.dbperulab.com/
   - name: Api edbfact
     url: http://161.132.192.240:81/
+  - name: Web Facturación electrónica
+    url: http://edbfact.dbperulab.com/
+    
 assigness:
   - mperezdbperu
   
