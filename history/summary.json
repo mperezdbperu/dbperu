@@ -59,11 +59,11 @@
     "icon": "https://favicons.githubusercontent.com/161.132.192.240",
     "slug": "api-edbfact",
     "status": "up",
-    "uptime": "83.58%",
+    "uptime": "83.69%",
     "uptimeDay": "90.31%",
     "uptimeWeek": "92.38%",
-    "uptimeMonth": "83.58%",
-    "uptimeYear": "83.58%",
+    "uptimeMonth": "83.69%",
+    "uptimeYear": "83.69%",
     "time": 4655,
     "timeDay": 1918,
     "timeWeek": 4230,
@@ -95,7 +95,7 @@
     "url": "http://edbfact.dbperulab.com/",
     "icon": "https://favicons.githubusercontent.com/edbfact.dbperulab.com",
     "slug": "web-facturacion-electronica",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -106,6 +106,8 @@
     "timeWeek": 133,
     "timeMonth": 147,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-07": 0
+    }
   }
 ]
