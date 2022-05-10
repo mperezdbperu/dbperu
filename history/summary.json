@@ -40,10 +40,10 @@
     "url": "http://tentus.dbperulab.com/",
     "icon": "https://favicons.githubusercontent.com/tentus.dbperulab.com",
     "slug": "tentus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 547,
@@ -51,7 +51,9 @@
     "timeWeek": 138,
     "timeMonth": 547,
     "timeYear": 547,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-10": 1
+    }
   },
   {
     "name": "Api edbfact",
@@ -59,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/161.132.192.240",
     "slug": "api-edbfact",
     "status": "up",
-    "uptime": "84.69%",
+    "uptime": "84.83%",
     "uptimeDay": "88.17%",
     "uptimeWeek": "91.63%",
-    "uptimeMonth": "84.69%",
-    "uptimeYear": "84.69%",
+    "uptimeMonth": "84.83%",
+    "uptimeYear": "84.83%",
     "time": 4277,
     "timeDay": 1527,
     "timeWeek": 3580,
@@ -98,9 +100,9 @@
     "url": "http://edbfact.dbperulab.com/",
     "icon": "https://favicons.githubusercontent.com/edbfact.dbperulab.com",
     "slug": "web-facturacion-electronica",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -109,6 +111,8 @@
     "timeWeek": 1069,
     "timeMonth": 519,
     "timeYear": 519,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-10": 0
+    }
   }
 ]
