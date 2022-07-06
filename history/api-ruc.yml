@@ -1,7 +1,7 @@
 url: http://java.dbperu.com:8080/ApiRuc
-status: up
-code: 200
-responseTime: 441
-lastUpdated: 2022-07-05T23:12:12.018Z
+status: down
+code: 500
+responseTime: 23246
+lastUpdated: 2022-07-06T22:24:55.765Z
 startTime: Mon Apr 18 2022 15:35:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
