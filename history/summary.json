@@ -4,9 +4,9 @@
     "url": "https://www.dbperu.com/",
     "icon": "https://favicons.githubusercontent.com/www.dbperu.com",
     "slug": "dbperu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 1014,
     "timeYear": 983,
     "dailyMinutesDown": {
+      "2022-08-23": 0,
       "2022-06-01": 19
     }
   },
@@ -71,11 +72,11 @@
     "icon": "https://favicons.githubusercontent.com/161.132.192.240",
     "slug": "api-edbfact",
     "status": "up",
-    "uptime": "93.65%",
+    "uptime": "93.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.65%",
+    "uptimeYear": "93.70%",
     "time": 2178,
     "timeDay": 354,
     "timeWeek": 268,
