@@ -1,7 +1,7 @@
 url: http://tentus.dbperulab.com/
-status: up
-code: 200
-responseTime: 4506
-lastUpdated: 2023-09-14T23:09:29.119Z
+status: down
+code: 500
+responseTime: 706
+lastUpdated: 2023-09-15T19:27:42.050Z
 startTime: 2022-04-18T15:35:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
