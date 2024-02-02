@@ -55,9 +55,9 @@
     "url": "http://java.dbperu.com:8080/ApiRuc",
     "icon": "https://icons.duckduckgo.com/ip3/java.dbperu.com.ico",
     "slug": "api-ruc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
@@ -67,6 +67,7 @@
     "timeMonth": 458,
     "timeYear": 451,
     "dailyMinutesDown": {
+      "2024-02-02": 0,
       "2023-12-03": 25,
       "2023-04-04": 1006,
       "2023-04-03": 50
@@ -105,7 +106,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/161.132.192.240.ico",
     "slug": "api-edbfact",
     "status": "up",
-    "uptime": "97.90%",
+    "uptime": "97.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
