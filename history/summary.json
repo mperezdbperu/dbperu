@@ -6,17 +6,17 @@
     "slug": "dbperu",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "95.72%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "96.28%",
+    "uptimeDay": "96.49%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "96.30%",
     "uptimeYear": "98.96%",
-    "time": 1187,
-    "timeDay": 9684,
-    "timeWeek": 6234,
-    "timeMonth": 5199,
-    "timeYear": 1462,
+    "time": 1203,
+    "timeDay": 10950,
+    "timeWeek": 6922,
+    "timeMonth": 5389,
+    "timeYear": 1484,
     "dailyMinutesDown": {
-      "2024-04-01": 61,
+      "2024-04-01": 50,
       "2024-03-16": 441,
       "2024-03-15": 975,
       "2024-03-13": 135,
@@ -55,8 +55,7 @@
       "2023-04-18": 21,
       "2023-04-13": 29,
       "2023-04-07": 18,
-      "2023-04-04": 1006,
-      "2023-04-03": 50
+      "2023-04-04": 1006
     }
   },
   {
@@ -71,15 +70,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 451,
-    "timeDay": 447,
-    "timeWeek": 454,
-    "timeMonth": 463,
+    "timeDay": 429,
+    "timeWeek": 447,
+    "timeMonth": 462,
     "timeYear": 455,
     "dailyMinutesDown": {
       "2024-02-02": 93,
       "2023-12-03": 25,
-      "2023-04-04": 1006,
-      "2023-04-03": 50
+      "2023-04-04": 1006
     }
   },
   {
@@ -94,10 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 3071,
-    "timeDay": 2223,
-    "timeWeek": 2468,
-    "timeMonth": 2599,
-    "timeYear": 2960,
+    "timeDay": 189,
+    "timeWeek": 2177,
+    "timeMonth": 2506,
+    "timeYear": 2951,
     "dailyMinutesDown": {
       "2023-11-22": 18,
       "2023-11-08": 36,
@@ -120,8 +118,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.51%",
     "time": 1272,
-    "timeDay": 238,
-    "timeWeek": 258,
+    "timeDay": 240,
+    "timeWeek": 250,
     "timeMonth": 313,
     "timeYear": 1530,
     "dailyMinutesDown": {
@@ -168,10 +166,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 492,
-    "timeDay": 155,
-    "timeWeek": 152,
-    "timeMonth": 138,
+    "time": 491,
+    "timeDay": 144,
+    "timeWeek": 159,
+    "timeMonth": 139,
     "timeYear": 507,
     "dailyMinutesDown": {
       "2023-11-22": 17,
