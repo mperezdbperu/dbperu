@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dbperu.com.ico",
     "slug": "dbperu",
     "status": "down",
-    "uptime": "99.37%",
-    "uptimeDay": "96.49%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "96.30%",
-    "uptimeYear": "98.96%",
-    "time": 1204,
-    "timeDay": 10950,
-    "timeWeek": 6922,
-    "timeMonth": 5389,
-    "timeYear": 1484,
+    "uptime": "99.25%",
+    "uptimeDay": "14.74%",
+    "uptimeWeek": "87.32%",
+    "uptimeMonth": "93.50%",
+    "uptimeYear": "98.73%",
+    "time": 1205,
+    "timeDay": 0,
+    "timeWeek": 7309,
+    "timeMonth": 5449,
+    "timeYear": 1486,
     "dailyMinutesDown": {
-      "2024-04-02": 0,
+      "2024-04-03": 29,
+      "2024-04-02": 1199,
       "2024-04-01": 50,
       "2024-03-16": 441,
       "2024-03-15": 975,
@@ -55,8 +56,7 @@
       "2023-04-23": 19,
       "2023-04-18": 21,
       "2023-04-13": 29,
-      "2023-04-07": 18,
-      "2023-04-04": 1006
+      "2023-04-07": 18
     }
   },
   {
@@ -71,14 +71,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 451,
-    "timeDay": 429,
-    "timeWeek": 447,
-    "timeMonth": 462,
+    "timeDay": 440,
+    "timeWeek": 445,
+    "timeMonth": 460,
     "timeYear": 455,
     "dailyMinutesDown": {
       "2024-02-02": 93,
-      "2023-12-03": 25,
-      "2023-04-04": 1006
+      "2023-12-03": 25
     }
   },
   {
@@ -92,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 3071,
-    "timeDay": 189,
-    "timeWeek": 2177,
-    "timeMonth": 2506,
-    "timeYear": 2951,
+    "time": 3076,
+    "timeDay": 2787,
+    "timeWeek": 2244,
+    "timeMonth": 2495,
+    "timeYear": 2944,
     "dailyMinutesDown": {
       "2023-11-22": 18,
       "2023-11-08": 36,
@@ -119,9 +118,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.51%",
     "time": 1272,
-    "timeDay": 240,
-    "timeWeek": 250,
-    "timeMonth": 313,
+    "timeDay": 242,
+    "timeWeek": 251,
+    "timeMonth": 312,
     "timeYear": 1530,
     "dailyMinutesDown": {
       "2024-02-11": 31,
@@ -152,8 +151,7 @@
       "2023-04-20": 51,
       "2023-04-19": 75,
       "2023-04-15": 1384,
-      "2023-04-14": 288,
-      "2023-04-04": 26
+      "2023-04-14": 288
     }
   },
   {
@@ -168,10 +166,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 491,
-    "timeDay": 144,
-    "timeWeek": 159,
-    "timeMonth": 139,
-    "timeYear": 507,
+    "timeDay": 154,
+    "timeWeek": 150,
+    "timeMonth": 140,
+    "timeYear": 508,
     "dailyMinutesDown": {
       "2023-11-22": 17,
       "2023-11-08": 35,
