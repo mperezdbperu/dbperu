@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dbperu.com.ico",
     "slug": "dbperu",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.29%",
     "uptimeYear": "97.96%",
     "time": 2446,
-    "timeDay": 124,
-    "timeWeek": 167,
-    "timeMonth": 2343,
-    "timeYear": 2796,
+    "timeDay": 295,
+    "timeWeek": 188,
+    "timeMonth": 2290,
+    "timeYear": 2795,
     "dailyMinutesDown": {
       "2024-09-18": 750,
       "2024-09-14": 43,
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
     "time": 454,
-    "timeDay": 456,
+    "timeDay": 406,
     "timeWeek": 423,
-    "timeMonth": 445,
+    "timeMonth": 444,
     "timeYear": 455,
     "dailyMinutesDown": {
       "2024-09-03": 171,
@@ -99,19 +99,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
-    "time": 2589,
-    "timeDay": 139,
-    "timeWeek": 2209,
-    "timeMonth": 1938,
-    "timeYear": 2500,
+    "time": 2580,
+    "timeDay": 158,
+    "timeWeek": 1898,
+    "timeMonth": 1868,
+    "timeYear": 2494,
     "dailyMinutesDown": {
       "2024-09-20": 43,
       "2024-09-01": 21,
       "2024-06-19": 20,
       "2023-11-22": 18,
       "2023-11-08": 36,
-      "2023-11-07": 23,
-      "2023-10-18": 18
+      "2023-11-07": 23
     }
   },
   {
@@ -125,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 507,
-    "timeDay": 238,
-    "timeWeek": 245,
+    "time": 506,
+    "timeDay": 259,
+    "timeWeek": 247,
     "timeMonth": 257,
-    "timeYear": 451,
+    "timeYear": 452,
     "dailyMinutesDown": {
       "2024-09-06": 458,
       "2024-09-04": 40,
@@ -151,9 +150,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 425,
-    "timeDay": 145,
-    "timeWeek": 189,
-    "timeMonth": 273,
+    "timeDay": 174,
+    "timeWeek": 181,
+    "timeMonth": 272,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2024-09-20": 43,
@@ -161,8 +160,7 @@
       "2024-06-19": 19,
       "2023-11-22": 17,
       "2023-11-08": 35,
-      "2023-11-07": 23,
-      "2023-10-18": 18
+      "2023-11-07": 23
     }
   }
 ]
